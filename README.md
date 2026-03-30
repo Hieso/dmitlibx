@@ -1,21 +1,12 @@
-# DmitlibX
-
-### RU
-Привет, это моя первая библиотека для Python.
-#### Функции:
-1. Очистка терминала(clear)
-2. Найти наибольший общий делитель чисел(nod)
-3. Найти наименьшее общее кратное чисел(nok)
-4. Установка библиотек(importlibs)
-
-### EN
+# Dmitallx
 Hi, this is my first Python library.
 
-#### Functions:
-1. Clear the terminal (clear)
-2. Find the greatest common divisor of numbers (nod)
-3. Find the least common multiple of numbers (nok)
-4. Install libraries (importlibs)
+##Functions:
+Clear the terminal (clear)
+Find the greatest common divisor of numbers (nod)
+Find the least common multiple of numbers (nok)
+Install libraries (install_libs)
+Create VK Keyboard (create_vk_keyboard)
 
 ## Installation
 

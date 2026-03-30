@@ -2,10 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='dmitlibx',  # Имя вашей библиотеки
-    version='0.1.0',  # Версия
+    version='0.1.7',  # Версия
     packages=find_packages(),  # Автоматически находит все пакеты
     install_requires=[
         'rich',  # Укажите зависимости, если они есть
+        'vk_api',
+        'toolz',
     ],
     author='DmitX',  # Ваше имя
     author_email='Hieso123@yandex.com',  # Ваш email
